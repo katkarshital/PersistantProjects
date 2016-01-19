@@ -1,0 +1,9 @@
+com\my\demo\AppTest.class
+com\my\demo\sender\EmailSender.class
+com\my\demo\sender\RichMail.class
+com\my\demo\server\EmailServer.class
+com\my\demo\App.class
+com\my\demo\server\FileServer.class
+com\my\demo\domain\Email.class
+com\my\demo\EmailTest.class
+com\my\demo\Student.class
